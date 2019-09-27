@@ -10,6 +10,7 @@
 int main() {
     int length;
     int volume;
+// This is what finds the volume of the icosahedron
 
 // Input
     std::cout << "Enter edge length of the icosahedron (cm): ";
